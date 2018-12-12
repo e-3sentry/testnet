@@ -1,0 +1,39 @@
+{
+  "producer_account_name": "pinganbaobao",
+  "producer_public_key": "EOS6j1sJPwr5ZRE3NqF3suLvKDjmTUgu73keWfzaCs6DuCHaD1gtv",
+  "org": {
+    "branding": {
+      "logo_256": "https://i.imgur.com/TFJTex0.png",
+      "logo_1024": "https://i.imgur.com/TFJTex0.png",
+      "logo_svg": "https://i.imgur.com/TFJTex0.png"
+    },
+    "location": {
+
+    },
+    "social": {
+  
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+       
+      },
+      "node_type": "seed",
+      "p2p_endpoint": "120.197.130.117:9009"
+    },
+    {
+      "location": {
+    
+      },
+      "node_type": "full",
+      "api_endpoint": "120.197.130.117:8009"
+    },
+    {
+      "location": {
+
+      },
+      "node_type": "producer"
+    }
+  ]
+}
